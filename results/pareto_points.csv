@@ -1,0 +1,6 @@
+label,penalty_drop,energy_kwh,sla_violation_rate_pct,kind,guardrail_ok
+DP P_drop=10,10.0,41.06677083333333,11.576354679802956,dp-sweep,False
+DP P_drop=25,25.0,44.330187499999994,11.206896551724139,dp-sweep,False
+DP P_drop=50,50.0,44.26939583333332,11.206896551724139,dp-sweep,True
+DP P_drop=100,100.0,44.26939583333332,11.206896551724139,dp-sweep,True
+DP P_drop=200,200.0,44.26939583333332,11.206896551724139,dp-sweep,True
